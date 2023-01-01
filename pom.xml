@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.photoapp</groupId>
-    <artifactId>photo-app-discovery</artifactId>
+    <artifactId>discovery-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>photo-app-discovery</name>
+    <name>discovery-service</name>
     <description>Discovery service</description>
     <properties>
         <java.version>17</java.version>
